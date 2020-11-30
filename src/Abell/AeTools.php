@@ -4,14 +4,14 @@ namespace Abell;
 
 class AeTool
 {
+
     public function __construct()
     {
-
     }
 
     public static function hello()
     {
-        echo  'hello kitty';
+        echo  '小工具';
     }
-    
+
 }
