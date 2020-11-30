@@ -1,0 +1,23 @@
+{
+  "name": "abell/tools",
+  "description": "a simple toolbox",
+  "keywords": [
+    "toolbox",
+    "abell",
+    "tool"
+  ],
+  "authors": [
+    {
+      "name": "rosekissyou",
+      "email": "onebenbenxiong@163.com",
+      "role": "Developer"
+    }
+  ],
+  "license": "Apache2",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Abell\\": "src/Abell"
+    }
+  }
+}
